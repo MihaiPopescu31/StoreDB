@@ -62,3 +62,7 @@ This repository contains the SQL dump for the `storedb` database, which includes
 
 ### 4. **Usage**
 You can use the storedb database for development and testing. The provided schema and sample data will help in setting up a working environment.
+
+
+![image](https://github.com/user-attachments/assets/5d103c77-d8dd-4705-ac8c-a94130176cd4)
+
